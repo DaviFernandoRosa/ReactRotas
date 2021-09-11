@@ -1,0 +1,50 @@
+.header {
+   display: flex;
+   background-color: antiquewhite;
+   padding: 5px;
+   margin: 5px;
+  
+}
+.headerLink{
+  text-decoration: none;
+  text-align: center;
+  margin-left: 10px;
+
+}
+
+.produtos{
+  display: flex;
+  flex-direction: column;
+  height: 78vh;
+  background-color: aquamarine;
+  padding: 5px;
+  margin: 5px;
+
+}
+
+.aviso{
+  display: flex;
+  flex-direction: column;
+  height: 78vh;
+  background-color: aqua;
+  padding: 5px;
+  margin: 5px;
+}
+ 
+.home{
+  display: flex;
+  height: 78vh;
+  background-color:aliceblue;
+  padding: 5px;
+  margin: 5px;
+}
+
+.footer{
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(43, 39, 33);
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
